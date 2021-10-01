@@ -9,7 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-AlvesBR&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
+  <box-icon type='logo' name='git'></box-icon>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Git" height="32" width="55" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange">
