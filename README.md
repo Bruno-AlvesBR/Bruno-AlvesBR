@@ -23,4 +23,4 @@
   <a href="https://www.linkedin.com/in/bruno-alves-0bbbb5202/" target="_blank"><img border-radius='0px' height='30px' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/Bruno-AlvesBR/Bruno-AlvesBR/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Bruno-AlvesBR/Bruno-AlvesBR/blob/output/github-contribution-grid-snake.svg) 
