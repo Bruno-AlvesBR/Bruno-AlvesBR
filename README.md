@@ -5,8 +5,8 @@
 - Conhecimentos em HTML5, CSS3, Git e Github, Scrum!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-AlvesBR&layout=compact&langs_count=16&theme=dark"/> 
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-AlvesBR&layout=compact&langs_count=16&theme=dark"/> 
 </div>
   
 <div style="display: inline_block">
