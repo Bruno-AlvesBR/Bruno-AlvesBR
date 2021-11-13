@@ -2,7 +2,7 @@
 
 - 🔭 Não estou trabalhando!
 - 🌱 Estou aprendendo JAVASCRIPT!
-- Conhecimentos em HTML5, CSS3, Git e Github, Scrum, C e JavaScript!
+- Conhecimentos em HTML5, CSS3, Git e Github, Scrum, SEO, C e JavaScript!
 
 <div>
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
