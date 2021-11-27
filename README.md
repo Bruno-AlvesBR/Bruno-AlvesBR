@@ -4,9 +4,9 @@
 - 🌱 Estou estudando ReactJS!
 - Conhecimentos em ReactJS, HTML5, CSS3 (SASS), Git e Github, Scrum, SEO, C e JavaScript!
 
-<div>
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-AlvesBR&layout=compact&langs_count=16&theme=dark"/> 
+<div display="flex" flex-direction="column" flex-wrap="wrap">
+  <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-AlvesBR&layout=compact&langs_count=16&theme=algolia"/> 
 </div>
   
 <div style="display: inline_block">
@@ -23,8 +23,8 @@
 ##
   
 <div>
-  <a href = "mailto:brunoph.faces12@gmail.com"><img border-radius='10px' height='30px' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-alves-0bbbb5202/" target="_blank"><img border-radius='10px' height='30px' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:brunoph.faces12@gmail.com"><img border-radius='0px' height='30px' src="https://img.shields.io/badge/Gmail-005157?style=for-the-badge&logo=gmail&logoColor=aqua" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-alves-0bbbb5202/" target="_blank"><img border-radius='0px' height='30px' src="https://img.shields.io/badge/Linkedin-005157?style=for-the-badge&logo=linkedin&logoColor=aqua" target="_blank"></a>   
 </div>
 
 ![Snake animation](https://github.com/Bruno-AlvesBR/Bruno-AlvesBR/blob/output/github-contribution-grid-snake.svg)
