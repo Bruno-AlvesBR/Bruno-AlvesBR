@@ -5,8 +5,8 @@
 - Conhecimentos em ReactJS, HTML5, CSS3 (SASS), Git e Github, Scrum, SEO, C e JavaScript!
 
 <div display="flex" flex-direction="column" flex-wrap="wrap">
-  <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-AlvesBR&layout=compact&langs_count=16&theme=algolia"/> 
+  <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-AlvesBR&layout=compact&langs_count=16&theme=gotham"/> 
 </div>
   
 <div style="display: inline_block">
