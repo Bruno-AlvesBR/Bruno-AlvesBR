@@ -2,7 +2,7 @@
 
 - 🔭 Não estou trabalhando!
 - 🌱 Estou estudando ReactJS!
-- Conhecimentos em ReactJS, HTML5, CSS3 (SASS), Git e Github, Scrum, SEO, C e JavaScript!
+- Conhecimentos em ReactJS, HTML5, CSS3 (SASS/Styled-components), Git e Github, Scrum, SEO, C e JavaScript!
 
 <div display="flex" flex-direction="column" flex-wrap="wrap">
   <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
