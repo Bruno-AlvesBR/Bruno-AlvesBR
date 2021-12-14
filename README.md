@@ -1,7 +1,6 @@
 ### Olá, sou Bruno Alves.
 
 - 🔭 Não estou trabalhando!
-- 🌱 Estou estudando ReactJS!
 - Conhecimentos em ReactJS, HTML5, CSS3 (SASS/Styled-components), Git e Github, Scrum, SEO, C e JavaScript!
 
 <div display="flex" flex-direction="column" flex-wrap="wrap">
