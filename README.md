@@ -1,7 +1,7 @@
 ### Olá, sou Bruno Alves.
 
 - 🔭 Não estou trabalhando!
-- Conhecimentos em ReactJS, Hooks, Api, HTML5, CSS3 (SASS/Styled-components), Git e Github, Scrum, SEO, C e JavaScript!
+- Habilidades: em ReactJS, Hooks, Api, HTML5, CSS3 (SASS/Styled-components), Git e Github, Scrum, SEO, C e JavaScript!
 
 <div display="flex" flex-direction="column" flex-wrap="wrap">
   <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,8 @@
   <img align="center" alt="Bruno-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Bruno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bruno-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruno-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Bruno-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Bruno-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
 ##
