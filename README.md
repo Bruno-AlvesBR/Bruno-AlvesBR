@@ -1,7 +1,7 @@
 ### Olá, sou Bruno Alves.
 
 - 🔭 Estagiário Desenvolvedor FullStack na Gempe!
-- Habilidades: Front End, ReactJS, JavaScript, Api, Styled-components, Git e Github, Scrum!
+- Habilidades: Front End, ReactJS, JavaScript, Api, Styled-components, Git e Github, Scrum e Kanban!
 
 <div display="flex" flex-direction="column" flex-wrap="wrap">
   <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
