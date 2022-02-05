@@ -1,6 +1,6 @@
 ### Olá, sou Bruno Alves.
 
-- 🔭 Não estou trabalhando!
+- 🔭 Estagiário Desenvolvedor FullStack na Gempe!
 - Habilidades: Front End, ReactJS, JavaScript, Api, Styled-components, Git e Github, Scrum!
 
 <div display="flex" flex-direction="column" flex-wrap="wrap">
