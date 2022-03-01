@@ -1,7 +1,7 @@
 ### Olá, sou Bruno Alves.
 
 - 🔭 Estagiário Desenvolvedor FullStack na Gempe!
-- Habilidades: Front End, ReactJS, JavaScript, Api, Styled-components, Git e Github, Scrum e Kanban!
+- Habilidades: Front End, ReactJS, NextJS, TypeScript, JavaScript, Api, Styled-components/Material-ui, Git e Github!
 
 <div display="flex" flex-direction="column" flex-wrap="wrap">
   <img flex="1" height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -9,15 +9,15 @@
 </div>
   
 <div style="display: inline_block">
-  <br>
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br />
   <img align="center" alt="Bruno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bruno-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Bruno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bruno-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bruno-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Bruno-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Bruno-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bruno-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Bruno-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
 ##
