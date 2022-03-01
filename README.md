@@ -1,7 +1,11 @@
-### Olá, sou Bruno Alves.
+### Bruno Alves.
 
-- 🔭 Estagiário Desenvolvedor FullStack na Gempe!
-- Habilidades: Front End, ReactJS, NextJS, TypeScript, JavaScript, Api, Styled-components/Material-ui, Git e Github!
+<div>
+  <p>Estagiário Desenvolvedor FullStack na Gempe!</p>
+  <p>Habilidades: Front End • ReactJS	• NextJS • TypeScript	• JavaScript • Api • Styled-components/Material-ui • Git e Github!</p>
+</div>
+
+##
 
 <div display="flex" flex-wrap="wrap">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Bruno-AlvesBR&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -23,7 +27,7 @@
 ##
   
 <div>
-  <a href = "mailto:brunoph.faces12@gmail.com">
+  <a href="mailto:brunoph.faces12@gmail.com">
      <img border-radius='0px' height='30px' src="https://img.shields.io/badge/Gmail-005157?style=for-the-badge&logo=gmail&logoColor=aqua" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/bruno-alves-0bbbb5202/" target="_blank">
