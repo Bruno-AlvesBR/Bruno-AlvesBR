@@ -2,7 +2,10 @@
 
 <div>
   <p>Estagiário Desenvolvedor FullStack na Gempe!</p>
-  <p>Habilidades: Front End • ReactJS	• NextJS • TypeScript	• JavaScript • Api • Styled-components/Material-ui • Git e Github!</p>
+  <p>Habilidades:</p>
+  <ul>
+    <p>Front End • ReactJS	• NextJS • TypeScript	• JavaScript • Api • Styled-components/Material-ui • Git e Github!</p>
+  </ul>
 </div>
 
 ##
