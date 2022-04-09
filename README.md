@@ -2,7 +2,7 @@
 
 <header>
 
-    Estagiário Desenvolvedor FullStack na Gempe!
+    Estagiário Desenvolvedor FullStack | Startse!
 
   <span>
     
