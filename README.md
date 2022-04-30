@@ -2,7 +2,7 @@
 
 <header>
 
-    Estagiário Desenvolvedor FullStack | Startse!
+    Squad Engage - Dev | Startse!
 
   <span>
     
