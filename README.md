@@ -2,7 +2,7 @@
 
 <header>
 
-    Squad Engage - Dev | Startse!
+   Dev | Startse!
 
   <span>
     
