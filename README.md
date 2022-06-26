@@ -9,7 +9,8 @@
     Habilidades: 
     
     [•] Front End: ReactJS	• NextJS • TypeScript • Styled-components/Material-ui!
-    [•] Back End: NodeJS • Express • MongoDB (estudando)!
+    [•] Tests: Jest • @testing-library - (estudando)!
+    [•] Back End: NodeJS • Express • MongoDB - (...)!
   
   </span>
 </header>
