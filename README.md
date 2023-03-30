@@ -1,8 +1,9 @@
 ### Bruno Alves.
 
 <header>
-
-   Dev | Startse!
+   <p>
+      Olá, sou Bruno Alves, tenho 20 anos, sou desenvolvedor Fullstack Web com paixão por tecnologia e solução de problemas. Possuo habilidades sólidas em desenvolvimento web full-stack. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é desenvolver soluções eficazes para atender às necessidades de meus clientes e usuários finais. No meu perfil, você encontrará projetos que desenvolvi.
+   </p>
 
   <span>
     
