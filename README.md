@@ -8,10 +8,10 @@
     
     Habilidades: 
     
-    [•] Front End: ReactJS	• NextJS • TypeScript • Styled-components/Material-ui!
+    [•] Front-End: ReactJS • NextJS • TypeScript • Styled-components/Material-ui!
     [•] Tests: Jest!
-    [•] Back End: NodeJS • Express!
-    [•] Sql: MongoDB - (estudando)!
+    [•] Back-End: NodeJS • Express!
+    [•] Database: MongoDB!
   
   </span>
 </header>
