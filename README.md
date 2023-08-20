@@ -13,6 +13,7 @@
     [•] Tests: Jest • Testing-library/react!
     [•] Back-End: NodeJS • Express!
     [•] Database: MongoDB!
+    [•] Arquitetura: SOLID • MVC • TDD!
   
   </span>
 </header>
