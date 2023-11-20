@@ -22,8 +22,7 @@
 
 <main>
   <div display="flex" flex-wrap="wrap">
-    <img width="400px" text-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alvesbr&langs_count=8&layout=compact&theme=gotham"/> 
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=bruno-alvesbr&show_icons=true&theme=gotham" />
+    <img width="100%" height="300px" text-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alvesbr&langs_count=8&layout=compact&theme=gotham"/> 
   </div>
 
   <div style="display: inline_block">
