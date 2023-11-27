@@ -22,7 +22,7 @@
 
 <main>
   <div display="flex" flex-wrap="wrap">
-    <img width="100%" height="300px" text-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alvesbr&langs_count=8&layout=compact&theme=gotham"/> 
+    <img width="fit-content" height="300px" text-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alvesbr&langs_count=8&layout=compact&theme=gotham"/> 
   </div>
 
   <div style="display: inline_block">
@@ -48,7 +48,5 @@
     <a href="https://www.linkedin.com/in/bruno-alves-0bbbb5202/" target="_blank">
       <img border-radius='0px' height='30px' src="https://img.shields.io/badge/Linkedin-005157?style=for-the-badge&logo=linkedin&logoColor=aqua" target="_blank">
     </a>   
-  </div> 
-  
-  ![Snake animation](https://github.com/Bruno-AlvesBR/Bruno-AlvesBR/blob/output/github-contribution-grid-snake.svg)
+  </div>
 </footer>
