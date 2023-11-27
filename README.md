@@ -22,7 +22,7 @@
 
 <main>
   <div display="flex" flex-wrap="wrap">
-    <img width="fit-content" height="300px" text-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alvesbr&langs_count=8&layout=compact&theme=gotham"/> 
+    <img width="fit-content" height="200px" text-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-alvesbr&langs_count=8&layout=compact&theme=gotham"/> 
   </div>
 
   <div style="display: inline_block">
@@ -42,7 +42,7 @@
   
 <footer>
   <div>
-    <a href="mailto:brunoph.faces12@gmail.com">
+    <a href="mailto:brunoph.faces12@gmail.com" target="_blank">
        <img border-radius='0px' height='30px' src="https://img.shields.io/badge/Gmail-005157?style=for-the-badge&logo=gmail&logoColor=aqua" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/bruno-alves-0bbbb5202/" target="_blank">
