@@ -16,14 +16,14 @@
 
   <span>
     
-    Habilidades: 
+    Skills:
     
     [•] Languages: JavaScript • Java
     [•] Front-End: ReactJS • NextJS • TypeScript • Styled-components/Material-ui/Tailwind/Sass!
     [•] Tests: Vitest • Jest • Testing-library/react!
     [•] Back-End: NodeJS • ExpressJS • NestJS!
     [•] Database: MongoDB • PostgreSQL!
-    [•] Arquitetura: SOLID • MVC • TDD!
+    [•] Architecture: SOLID • MVC • TDD!
   
   </span>
 </header>
