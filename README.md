@@ -11,7 +11,7 @@
    </p>
 
    <p>
-      And here, you can access my professional profile that is used on StartSe: <a href="https://github.com/bruno-alves-startse" target="_blank">click here</code>
+      And here, you can access my professional profile that is used on StartSe: <strong><a href="https://github.com/bruno-alves-startse" target="_blank">click here</a></strong>
    </p>
 
   <span>
