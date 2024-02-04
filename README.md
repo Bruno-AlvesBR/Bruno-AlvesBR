@@ -1,10 +1,7 @@
-### Bruno Alves.
-
 <header>
    <p>
-      Welcome to my github profile! :)
+      <strong>Welcome to my github profile! :)</strong>
    </p>
-      
 
    <p>
       Hi, I'm Bruno Alves and I've 21 years old. I'm Full-Stack Software Developer paixonate for technological innovation and problems solving. Here you can find all my personal projects that i use to tranning my habilitties.
@@ -15,7 +12,7 @@
    </p>
 
   <span>
-    
+     
     Skills:
     
     [•] Languages: JavaScript • Java
@@ -26,6 +23,8 @@
     [•] Architecture: SOLID • MVC • TDD!
   
   </span>
+
+   <a color="red" href="https://bruno-alves-portifolio.vercel.app" target="_blank">PORTIFOLIO</a>
 </header>
 
 ##
@@ -36,15 +35,20 @@
   </div>
 
   <div style="display: inline_block">
-    <br />
-    <img align="center" alt="Bruno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Bruno-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Bruno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Bruno-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Bruno-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" alt="Bruno-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Bruno-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Bruno-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+      <br />
+      <img align="center" alt="Bruno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img align="center" alt="Bruno-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img align="center" alt="Bruno-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img align="center" alt="Bruno-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Bruno-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <img align="center" alt="Bruno-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Bruno-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="Bruno-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+      <img align="center" alt="Bruno-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+      <img align="center" alt="Bruno-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+      <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img align="center" alt="Bruno-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
 </main>
   
