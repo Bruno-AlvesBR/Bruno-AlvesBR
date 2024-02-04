@@ -2,17 +2,27 @@
 
 <header>
    <p>
-      Olá, sou Bruno Alves, tenho 20 anos, sou desenvolvedor Fullstack Web com paixão por tecnologia e solução de problemas. Possuo habilidades sólidas em desenvolvimento web full-stack. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias. Meu objetivo é desenvolver soluções eficazes para atender às necessidades de meus clientes e usuários finais. No meu perfil, você encontrará projetos que desenvolvi.
+      Welcome to my github profile! :)
+   </p>
+      
+
+   <p>
+      Hi, I'm Bruno Alves and I've 21 years old. I'm Full-Stack Software Developer paixonate for technological innovation and problems solving. Here you can find all my personal projects that i use to tranning my habilitties.
+   </p>
+
+   <p>
+      And here, you can access my professional profile that is used on StartSe: <a href="https://github.com/bruno-alves-startse" target="_blank">click here</code>
    </p>
 
   <span>
     
     Habilidades: 
     
-    [•] Front-End: ReactJS • NextJS • TypeScript • Styled-components/Material-ui/Tailwind!
-    [•] Tests: Jest • Testing-library/react!
-    [•] Back-End: NodeJS • Express!
-    [•] Database: MongoDB!
+    [•] Languages: JavaScript • Java
+    [•] Front-End: ReactJS • NextJS • TypeScript • Styled-components/Material-ui/Tailwind/Sass!
+    [•] Tests: Vitest • Jest • Testing-library/react!
+    [•] Back-End: NodeJS • ExpressJS • NestJS!
+    [•] Database: MongoDB • PostgreSQL!
     [•] Arquitetura: SOLID • MVC • TDD!
   
   </span>
