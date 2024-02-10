@@ -21,6 +21,7 @@
     [•] Back-End: NodeJS • ExpressJS • NestJS!
     [•] Database: MongoDB • PostgreSQL!
     [•] Architecture: SOLID • MVC • TDD!
+    [•] Services: Docker • CI/CD!
   
   </span>
 
@@ -44,7 +45,7 @@
       <img align="center" alt="Bruno-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
       <img align="center" alt="Bruno-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
       <img align="center" alt="Bruno-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-      <img align="center" alt="Bruno-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+      <img align="center" alt="Bruno-NestJS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
       <img align="center" alt="Bruno-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
       <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img align="center" alt="Bruno-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
