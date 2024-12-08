@@ -8,7 +8,7 @@
    </p>
 
    <p>
-      And here, you can access my professional profile that is used on StartSe: <strong><a href="https://github.com/bruno-alves-startse" target="_blank">click here</a></strong>
+      And here, you can access my professional portifolio: <strong><a href="https://www.bruno-alves-dev.com.br/" target="_blank">click here</a></strong>
    </p>
 
   <span>
@@ -16,7 +16,7 @@
     Skills:
     
     [•] Languages: JavaScript • Java
-    [•] Front-End: ReactJS • NextJS • TypeScript • Styled-components/Material-ui/Tailwind/Sass!
+    [•] Front-End: AngularJS • ReactJS • NextJS • TypeScript • Styled-components/Material-ui/Tailwind/Sass!
     [•] Tests: Vitest • Jest • Testing-library/react!
     [•] Back-End: NodeJS • ExpressJS • NestJS!
     [•] Database: MongoDB • PostgreSQL!
