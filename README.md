@@ -4,7 +4,7 @@
    </p>
 
    <p>
-      Hi, I'm Bruno Alves and I've 21 years old. I'm Full-Stack Software Developer paixonate for technological innovation and problems solving. Here you can find all my personal projects that i use to tranning my habilitties.
+      Hi, I'm Bruno Alves and I've 22 years old. I'm Full-Stack Software Developer paixonate for technological innovation and problems solving. Here you can find all my personal projects that i use to tranning my habilitties.
    </p>
 
    <p>
@@ -15,7 +15,7 @@
      
     Skills:
     
-    [•] Languages: JavaScript • Java
+    [•] Languages: JavaScript • Java • Python
     [•] Front-End: AngularJS • ReactJS • NextJS • TypeScript • Styled-components/Material-ui/Tailwind/Sass!
     [•] Tests: Vitest • Jest • Testing-library/react!
     [•] Back-End: NodeJS • ExpressJS • NestJS!
@@ -47,6 +47,7 @@
       <img align="center" alt="Bruno-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
       <img align="center" alt="Bruno-NestJS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
       <img align="center" alt="Bruno-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+      <img align="center" alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img align="center" alt="Bruno-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img align="center" alt="Bruno-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
       <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
