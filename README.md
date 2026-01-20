@@ -6,7 +6,6 @@ PORTUGUÊS: NATIVO | INGLÊS: B2 (Leitura técnica, conversação intermediária
 **Celular:** +55 (43) 98866-8668  
 **LinkedIn:** linkedin.com/in/bruno-alvesbr  
 **Localização:** Brasil  
-**Portfólio:** bruno-alves-portfolio.vercel.app
 
 ---
 
