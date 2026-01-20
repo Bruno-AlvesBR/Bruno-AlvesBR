@@ -18,8 +18,7 @@ Desenvolvedor Full Stack com mais de 5 anos de experiência, atuando na criaçã
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### Cidadania4u | Abril 2024 - Janeiro 2026
-**Desenvolvedor Full Stack Sênior** (Jan 2025 - Jan 2026)  
-**Desenvolvedor Full Stack Pleno** (Abr 2024 - Dez 2024)  
+**Desenvolvedor Full Stack Sênior** (Abr 2024 - Jan 2026)
 - Liderou implementação de sistema de gamificação que aumentou retenção de usuários
 - Desenvolveu fluxos de onboarding e gerenciamento documental para otimização de processos
 - Contribuiu para redução de churn e melhoria de métricas de conversão
