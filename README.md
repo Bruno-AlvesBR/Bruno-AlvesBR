@@ -1,5 +1,5 @@
 # BRUNO ALVES
-Desenvolvedor Full Stack Sênior  
+Desenvolvedor Full Stack  
 PORTUGUÊS: NATIVO | INGLÊS: B2 (Leitura técnica, conversação intermediária)
 
 **E-mail:** brunoph.faces12@gmail.com  
@@ -10,20 +10,20 @@ PORTUGUÊS: NATIVO | INGLÊS: B2 (Leitura técnica, conversação intermediária
 ---
 
 ## SOBRE
-Desenvolvedor Full Stack com mais de 5 anos de experiência, atuando na criação de soluções escaláveis, eficientes e inovadoras. Focado em desempenho, qualidade de código e resolução de problemas. Premiado por contribuições técnicas, com mentalidade ágil e comprometido com aprendizado contínuo e tendências do mercado.
+Desenvolvedor Full Stack com 5 anos de experiência, atuando na criação de soluções escaláveis, eficientes e inovadoras. Focado em desempenho, qualidade de código e resolução de problemas. Premiado por contribuições técnicas, com mentalidade ágil e comprometido com aprendizado contínuo e tendências do mercado.
 
 ---
 
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### Cidadania4u | Abril 2024 - Janeiro 2026
-**Desenvolvedor Full Stack Sênior** (Abr 2024 - Jan 2026)
+**Desenvolvedor Full Stack** (Abr 2024 - Jan 2026)
 - Liderou implementação de sistema de gamificação que aumentou retenção de usuários
 - Desenvolveu fluxos de onboarding e gerenciamento documental para otimização de processos
 - Contribuiu para redução de churn e melhoria de métricas de conversão
 - **Stack:** Node.js, Java, Angular, MongoDB, MySQL, AWS (SQS, SNS), Docker
 
-### StartSe | Janeiro 2022 - Abril 2024
+### StartSe | Setembro 2021 - Abril 2024
 **Desenvolvedor Full Stack Pleno** (Nov 2022 - Abr 2024)  
 **Desenvolvedor Full Stack Júnior** (Jan 2022 - Out 2022)  
 - Desenvolveu sistemas focados em performance e escalabilidade
