@@ -17,15 +17,16 @@ Desenvolvedor Full Stack com 5 anos de experiência, atuando na criação de sol
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### Cidadania4u | Abril 2024 - Janeiro 2026
-**Desenvolvedor Full Stack** (Abr 2024 - Jan 2026)
+**Sênior Software Engineer** (Jul 2025 - Jan 2026)
 - Liderou implementação de sistema de gamificação que aumentou retenção de usuários
+- **Stack:** Node.js, Java, Angular, MongoDB, MySQL, AWS (SQS, SNS), Docker
+**Software Engineer** (Abr 2024 - (Jul 2025)
 - Desenvolveu fluxos de onboarding e gerenciamento documental para otimização de processos
 - Contribuiu para redução de churn e melhoria de métricas de conversão
 - **Stack:** Node.js, Java, Angular, MongoDB, MySQL, AWS (SQS, SNS), Docker
 
 ### StartSe | Setembro 2021 - Abril 2024
-**Desenvolvedor Full Stack Pleno** (Nov 2022 - Abr 2024)  
-**Desenvolvedor Full Stack Júnior** (Jan 2022 - Out 2022)  
+**Software Engineer** (Set 2021 - Abr 2024)  
 - Desenvolveu sistemas focados em performance e escalabilidade
 - Contribuiu para engajamento de usuários (+1 milhão de acessos/mês)
 - Aumentou taxa de identificação de usuários de 0,5% para 4% da base ativa
