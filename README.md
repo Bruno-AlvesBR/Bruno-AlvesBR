@@ -20,6 +20,7 @@ Desenvolvedor Full Stack com 5 anos de experiência, atuando na criação de sol
 **Sênior Software Engineer** (Jul 2025 - Jan 2026)
 - Liderou implementação de sistema de gamificação que aumentou retenção de usuários
 - **Stack:** Node.js, Java, Angular, MongoDB, MySQL, AWS (SQS, SNS), Docker
+
 **Software Engineer** (Abr 2024 - (Jul 2025)
 - Desenvolveu fluxos de onboarding e gerenciamento documental para otimização de processos
 - Contribuiu para redução de churn e melhoria de métricas de conversão
