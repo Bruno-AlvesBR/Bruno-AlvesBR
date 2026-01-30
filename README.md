@@ -25,10 +25,10 @@ Desenvolvedor Full Stack com 5 anos de experiência, atuando na criação de sol
 
 ### StartSe | Setembro 2021 - Abril 2024
 **Software Engineer** (Set 2021 - Abr 2024)  
-- Desenvolveu sistemas focados em performance e escalabilidade
-- Contribuiu para engajamento de usuários (+1 milhão de acessos/mês)
-- Aumentou taxa de identificação de usuários de 0,5% para 4% da base ativa
-- Atuou com arquitetura limpa, TDD e metodologias ágeis
+- Desenvolvi sistemas focados em performance e escalabilidade
+- Contribui para engajamento de usuários (+1 milhão de acessos/mês)
+- Aumenti taxa de identificação de usuários de 0,5% para 4% da base ativa
+- Atuei com arquitetura limpa, TDD e metodologias ágeis
 
 ---
 
