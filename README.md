@@ -1,6 +1,6 @@
 # BRUNO ALVES
 Desenvolvedor Full Stack  
-PORTUGUÊS: NATIVO | INGLÊS: B2 (Leitura técnica, conversação intermediária)
+PORTUGUÊS: NATIVO | INGLÊS: B1 (Leitura técnica, conversação intermediária)
 
 **E-mail:** brunoph.faces12@gmail.com  
 **Celular:** +55 (43) 98866-8668  
@@ -17,7 +17,7 @@ Desenvolvedor Full Stack com 5 anos de experiência, atuando na criação de sol
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### Cidadania4u | Abril 2024 - Janeiro 2026
-**Sênior Software Engineer** (Abr 2024 - Jan 2026)
+**Software Engineer** (Abr 2024 - Jan 2026)
 - Liderei implementação de sistema de gamificação que aumentou retenção de usuários
 - Desenvolvi fluxos de onboarding e gerenciamento documental para otimização de processos
 - Contribui para redução de churn e melhoria de métricas de conversão
