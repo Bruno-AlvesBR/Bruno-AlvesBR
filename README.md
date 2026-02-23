@@ -10,7 +10,7 @@ PORTUGUÊS: NATIVO | INGLÊS: B1 (Leitura técnica, conversação intermediária
 ---
 
 ## SOBRE
-Desenvolvedor Full Stack com 5 anos de experiência, atuando na criação de soluções escaláveis, eficientes e inovadoras. Focado em desempenho, qualidade de código e resolução de problemas. Premiado por contribuições técnicas, com mentalidade ágil e comprometido com aprendizado contínuo e tendências do mercado.
+Desenvolvedor Full Stack com mais de 4 anos de experiência, atuando na criação de soluções escaláveis, eficientes e inovadoras. Focado em desempenho, qualidade de código e resolução de problemas. Premiado por contribuições técnicas, com mentalidade ágil e comprometido com aprendizado contínuo e tendências do mercado.
 
 ---
 
@@ -24,7 +24,7 @@ Desenvolvedor Full Stack com 5 anos de experiência, atuando na criação de sol
 - **Stack:** Node.js, Java, Angular, MongoDB, MySQL, AWS (SQS, SNS), Docker
 
 ### StartSe | Setembro 2021 - Abril 2024
-**Software Engineer** (Set 2021 - Abr 2024)  
+**Software Engineer** (Jan 2022 - Abr 2024)  
 - Desenvolvi sistemas focados em performance e escalabilidade
 - Contribui para engajamento de usuários (+1 milhão de acessos/mês)
 - Aumenti taxa de identificação de usuários de 0,5% para 4% da base ativa
