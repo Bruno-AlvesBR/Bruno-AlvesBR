@@ -16,6 +16,9 @@ Desenvolvedor Full Stack com mais de 4 anos de experiência, atuando na criaçã
 
 ## EXPERIÊNCIA PROFISSIONAL
 
+### OmniChat | Março 2026 - Atual
+**Software Engineer** (Março 2026)
+
 ### Cidadania4u | Abril 2024 - Janeiro 2026
 **Software Engineer** (Abr 2024 - Jan 2026)
 - Liderei implementação de sistema de gamificação que aumentou retenção de usuários
