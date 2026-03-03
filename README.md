@@ -26,7 +26,7 @@ Desenvolvedor Full Stack com mais de 4 anos de experiência, atuando na criaçã
 - Contribui para redução de churn e melhoria de métricas de conversão
 - **Stack:** Node.js, Java, Angular, MongoDB, MySQL, AWS (SQS, SNS), Docker
 
-### StartSe | Setembro 2021 - Abril 2024
+### StartSe | Janeiro 2022 - Abril 2024
 **Software Engineer** (Jan 2022 - Abr 2024)  
 - Desenvolvi sistemas focados em performance e escalabilidade
 - Contribui para engajamento de usuários (+1 milhão de acessos/mês)
